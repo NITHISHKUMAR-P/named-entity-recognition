@@ -166,7 +166,7 @@ metrics[['loss','val_loss']].plot()
 ```
 ### Prediction
 ```py
-i = 20
+i = 2001
 p = model.predict(np.array([X_test[i]]))
 p = np.argmax(p, axis=-1)
 y_true = y_test[i]
@@ -184,7 +184,7 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 
 ### Sample Text Prediction
 <p align="center">
-<img width="350" src="https://user-images.githubusercontent.com/93427237/235587712-c57a4412-d684-4e60-8296-400d5b399532.png">
+<img width="350" src="https://github.com/NITHISHKUMAR-P/named-entity-recognition/assets/93427017/181b3f3b-6869-4078-aaaa-9dde6b446df5">
 </p>
 
 ## RESULT :
