@@ -181,14 +181,6 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 | :------------------------------------------------------:| :-----------------------------------------------------------:|
 |![image](https://user-images.githubusercontent.com/93427237/235587601-662a7845-93ed-4bcd-a704-3ec10b64bdfe.png)| ![image](https://user-images.githubusercontent.com/93427237/235587615-d2385e35-20b8-484b-924e-e18e056cf433.png) |
 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
 
 ### Sample Text Prediction
 <p align="center">
